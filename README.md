@@ -66,4 +66,4 @@ Une fois les configurations effectuées, vous pouvez exécuter les workflows Git
 2. Ce workflow construit l'image Docker de l'application et la publie sur Docker Hub.
 
 ## Result
-
+<img width="945" alt="image" src="https://github.com/Mcire/cicd-github-action/assets/95756307/ff10579a-ed4c-438a-b937-ba80f4abc636">
